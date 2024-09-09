@@ -17,7 +17,7 @@ I’m in the early stages of my development journey, so I will soon be having so
 ## 📫 Get in Touch
 I’m always open to feedback, advice, and new opportunities to learn. Feel free to connect with me:
 
-- LinkedIn: https://www.linkedin.com/in/iamancil?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/iamancil/
 - Twitter: twitter.com/iamancil
 - Email: iam_ancil@yahoo.com
   
