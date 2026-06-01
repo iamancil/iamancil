@@ -32,6 +32,3 @@
 
 <br>
 
-<div align="center">
-  <sub><i>"I prefer my code compiled and my dotfiles organized."</i></sub>
-</div>
